@@ -1,5 +1,5 @@
 ## About me page.
-##### live link: <a href=https://https://tarun-2053.github.io>tarun-2053.github.io</a>
+##### live link: <a href=https://tarun-2053.github.io>tarun-2053.github.io</a>
 
 <img src="assets/img/website-preview.jpg">
 
